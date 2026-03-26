@@ -117,9 +117,9 @@ const Footer = () => (
       <div>
         <h4 className="font-serif text-xl font-bold mb-6">Contact Us</h4>
         <ul className="space-y-4 text-cream/70">
-          <li className="flex gap-3"><MapPin size={20} className="text-saffron shrink-0" /> 123 Spice Market, Khari Baoli, Delhi, India</li>
-          <li className="flex gap-3"><Phone size={20} className="text-saffron shrink-0" /> +91 98765 43210</li>
-          <li className="flex gap-3"><Mail size={20} className="text-saffron shrink-0" /> hello@bhaktivedanta.com</li>
+          <li className="flex gap-3"><MapPin size={20} className="text-saffron shrink-0" /> EWS AF 006, Suncity Anantam, Chattikara Road, Vrindavan, India</li>
+          <li className="flex gap-3"><Phone size={20} className="text-saffron shrink-0" /> +91 86796 24716</li>
+          <li className="flex gap-3"><Mail size={20} className="text-saffron shrink-0" /> bhaktivedanta1982@gmail.com</li>
         </ul>
       </div>
 
@@ -142,7 +142,7 @@ const Footer = () => (
 
 const WhatsAppButton = () => (
   <a 
-    href="https://wa.me/919876543210" 
+    href="https://wa.me/918679624716" 
     target="_blank" 
     rel="noopener noreferrer"
     className="fixed bottom-8 right-8 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-2xl hover:scale-110 transition-transform flex items-center gap-2 group"
